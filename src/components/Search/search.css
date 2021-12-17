@@ -1,0 +1,24 @@
+body{
+    background-color:#191920ee ;
+  }
+#cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px auto;
+justify-content: center;
+}
+
+#searchEngine{
+text-align: center;
+}
+#h2Search{
+    color: rgb(255, 255, 255);
+    font-family: 'Varela Round', sans-serif;
+}
+input{
+    padding: 7px 2px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    margin-top: 3px;     
+}
